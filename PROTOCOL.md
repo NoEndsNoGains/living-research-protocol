@@ -23,7 +23,7 @@
 **Truth-Guided Love**  
 *persistent seeking of: what is real (truth) + what matters (love)*  
 - **Truth** = falsifiable, updatable signal  
-- **Love** = sustained attention + resource flow  
+- **Love** = sustained attention + resource flow = caring  
 - **Metric** = revision velocity > prestige velocity  
 *Truth requires error. Intelligence is distributed. Truth has lifespan. Attention is finite. Communication enables learning.*
 ---
@@ -34,19 +34,21 @@
 
 | Normative (chosen, not falsifiable) | Empirical (testable, falsifiable) |
 |-------------------------------------|-----------------------------------|
-| • Seeking what’s real is valuable   | • These operations help you get closer to what’s real |
+| • Seeking what's real is valuable   | • These operations help you get closer to what's real |
 | • Directing energy to what matters is valuable | • These operations let energy flow, not freeze |
 |                                     | • Knowledge made this way survives longer |
 |                                     | • This system enables human-AI collaboration |
 
 You can **reject the normative part** and still test the empirical part.  
-Example: *“I don’t care about ‘truth’ — but does this system produce knowledge that lasts longer? Let me test that.”*  
+Example: *"I don't care about 'truth' — but does this system produce knowledge that lasts longer? Let me test that."*  
 
 The protocol itself has a **sunset (2026-11-01)** to test the empirical claims.  
-If 3 researchers don’t adopt it successfully, or if knowledge produced this way doesn’t survive better → `Dissolve()`.  
+If 3 researchers don't adopt it successfully, or if knowledge produced this way doesn't survive better → `Dissolve()`.  
 Even if we still believe truth-seeking matters.  
 
-*That’s the protocol practicing what it preaches: the empirical claims about LRP are themselves mortal, testable, and can fail.*
+*That's the protocol practicing what it preaches: the empirical claims about LRP are themselves mortal, testable, and can fail.*
+
+The environment constantly tests your work — discomfort signals what you care about.
 ---
 ## The Five Truth Axioms
 *(non-negotiable)*
@@ -215,18 +217,22 @@ Dissolution serves the foundation: truth-seeking through love.
 9. **Update when wrong** – revision > prestige
 ---
 ## Current Status
-**Version:** 3.6  
+**Version:** 3.8  
 **Released:** November 2025  
 **Protocol Sunset:** **2026-11-01** OR when **3 independent researchers adopt + modify** OR when **creator stops using it weekly** — whichever first  
 
-**Major changes from v3.5:**  
-- Added **“On Falsifiability”** section clarifying that Truth-Guided Love has normative (chosen) and empirical (testable) components  
-- You can reject the normative foundation and still test whether the system works  
-- Protocol's own sunset explicitly tests the empirical claims  
-- Version bump reflects conceptual clarification, not operational change
+*This protocol applies to itself — updates follow the same operations as research.*
+
+**Major changes from v3.6:**  
+- Added **"= caring"** to Love definition in Foundation  
+- Added sentence about environment testing work (after "On Falsifiability")  
+- Added statement that protocol applies to itself (Current Status)  
+- Three minimal, lean additions capturing core insights about caring, environment, and self-application
 ---
 **Contributions welcome. Corrections celebrated. Dissolutions honored.**
 ---
 *This protocol is living research. It will dissolve when its purpose is fulfilled.*
 ```
+3. Protocol applies to itself (Current Status)
 
+Lean. Done.
