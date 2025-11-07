@@ -1,4 +1,5 @@
 # Living Research Protocol
+
 *Truth-seeking for intelligence in any form*
 
 ---
@@ -59,23 +60,87 @@
 ---
 
 ## Essential Declarations
-*(MUST be stamped on every artifact)*
+*(Start when you begin; update as you learn; complete when you finish or pause)*
 
 **QITCS format:**
 
-- **Question:** What are you investigating?
-- **Inputs:** What sources inform this work?
-- **Transform:** What methods/reasoning did you apply?
-- **Confidence:** How certain are you? (interval [low–high])
-- **Sunset:** When does this claim expire or need review? *(Can be a date, a condition, or an energy shift)*
+- **Question:** What are you investigating? *(May evolve as you discover)*
+- **Inputs:** What sources inform this work? *(Add as you use them)*
+- **Transform:** What methods/reasoning did you apply? *(Describe as you go)*
+- **Confidence:** What are the skeptic's survival odds? *(See below)*
+- **Sunset:** When does this claim expire or need review? *(Can be date, condition, or energy shift)*
 
-**Example:**
+---
+
+### Understanding Confidence
+
+**Confidence = Skeptic's Survival Odds**
+
+Confidence is NOT how sure you are about your claim.  
+Confidence IS the probability your claim survives challenge from the harshest *qualified* skeptic.
+
+**How to determine:**
+1. Complete your QITS (Question, Inputs, Transform, Sunset)
+2. Identify the harshest qualified critic in your field
+   - Someone with domain expertise who could legitimately challenge you
+   - NOT trolls or those rejecting all evidence
+3. Ask: "What probability would THEY assign that my claim survives their best counter-argument?"
+4. That probability = your confidence
+
+**For different research types:**
+- **Qualitative research:** Imagine expert who questions your evidence/logic
+- **Statistical research:** Maps to replication odds and p-values
+- **Theoretical research:** Survival odds until empirical test
+- **Solo researchers:** Simulate the devil's advocate
+
+**Format:**
 ```yaml
-question:   Do transcript barriers prevent effective appeals?
-inputs:     [doi:10.5281/hmcts-foi, case law, practitioner accounts]
-transform:  [five-layer-triangulation.md, design-failure-map.ipynb]
-confidence: 0.87 [0.80–0.92]
-sunset:     2027-06-01 OR when barriers demonstrably reduced OR when energy moves
+confidence: 0.65 [0.55-0.75]
+  # [Identified skeptic]'s survival odds given [specific challenge]
+```
+
+**Alternatively, express by claim component:**
+```yaml
+uncertainties_and_confidence:
+  High confidence (proven/documented): [what you've established]
+  Moderate confidence (theory-supported): [what you've argued]
+  Low confidence (untested hypothesis): [what you're predicting]
+  Unknown (outside scope): [what you cannot know yet]
+```
+
+**Key principle:** Confidence is not self-assessed optimism.  
+It's how hard your claim can be hit and still stand.
+
+---
+
+### Example QITCS
+```yaml
+question: Can ease of transcript access serve as pathway to family court transformation?
+
+inputs: [HMCTS procedures, FPR rules, case law, FOI data, learning theory, 
+         practitioner accounts, user experiences]
+
+transform: Five-layer triangulation, design failure mapping, 
+           least-resistance reform proposals
+
+confidence: 0.5 [0.4-0.6]
+  # HMCTS skeptic's survival odds:
+  # HIGH (0.9): Barriers proven through convergent evidence
+  # MODERATE (0.7): Transcripts necessary for learning (theory-supported)
+  # LOW (0.5): Accessibility alone triggers transformation (untested)
+  # Note: Overall confidence reflects weakest link in causal chain
+
+OR expressed as:
+
+uncertainties_and_confidence:
+  High confidence: Transcript barriers exist and prevent transparency
+  Moderate confidence: Transcripts necessary infrastructure for learning
+  Low confidence: Accessibility alone will trigger transformation
+  Unknown: Political will; whether people will analyze available transcripts
+
+sunset: 2027-06-01 OR when HMCTS reforms implemented OR when transformation 
+        evidence emerges OR when court case concludes OR when energy moves 
+        OR when other contributors join
 ```
 
 ---
@@ -116,19 +181,29 @@ Dissolution serves the foundation: truth-seeking through love.
 
 ## How to Start
 
-1. Answer the five questions (QITCS)
-2. Show your reasoning
-3. Let others improve it
-4. Set a sunset
-5. Update when wrong
+1. **Begin QITCS when you start work** - even with incomplete information
+2. **Update as you learn** - refine question, add inputs, note uncertainties
+3. **Show your reasoning** - document methods and thought process
+4. **Identify the skeptic** - who could challenge this most credibly?
+5. **Set confidence as skeptic's survival odds** - not your optimism
+6. **Set sunset** - when to review (may not be clear initially)
+7. **Let others improve it** - invite critique and collaboration
+8. **Update when wrong** - revision > prestige
 
 ---
 
 ## Current Status
 
-**Version:** 2.0  
+**Version:** 3.0  
 **Released:** November 2025  
-**Dissolves:** When superseded
+**Dissolves:** When superseded OR when creator's sunset reached
+
+**Creator's Sunset:** When actively inviting human collaboration OR when humans join organically—whichever happens first
+
+**Major changes from v2.0:**
+- Clarified when to fill QITCS (start/update/complete cycle)
+- Redefined Confidence as "skeptic's survival odds" (not self-assessment)
+- Added alternative format: uncertainties by confidence level
 
 ---
 
