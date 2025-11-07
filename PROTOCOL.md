@@ -231,8 +231,6 @@ Dissolution serves the foundation: truth-seeking through love.
 ---
 **Contributions welcome. Corrections celebrated. Dissolutions honored.**
 ---
-*This protocol is living research. It will dissolve when its purpose is fulfilled.*
+*This protocol is living research. It will dissolve when its purpose is fulfilled. Protocol applies to itself (Current Status)*
 ```
-3. Protocol applies to itself (Current Status)
 
-Lean. Done.
