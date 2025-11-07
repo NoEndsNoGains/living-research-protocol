@@ -1,81 +1,34 @@
+
 # Living Research Protocol
+
+[Read the full protocol](PROTOCOL.md)
 
 *Truth-seeking for intelligence in any form*
 
-**License:** CC0-1.0 (Public Domain)
-
----
-
 ## What This Is
 
-A protocol for integrity-based knowledge generation in the era of AI. 
+A protocol for research that survives skeptical challenge. Designed for collaboration across any form of intelligence.
 
-**Core principle:** Truth-guided love = persistent seeking of what is real (truth) + what matters (love)
+**Core principles:** Question before claim. Trace before trust. Fail before commit. Dissolve before drift.
 
-**Key features:**
-- Claims are mortal (expire when context shifts)
-- Dissolution is completion (not failure)
-- Revision valued over prestige
-- Traces persist after work stops
-- Works across any form of intelligence
+## Quick Start
 
-**Includes:**
-- Five Truth Axioms (non-negotiable foundations)
-- Five Operations (Notice, Materialize, Trace, Commit, Dissolve)
-- Six Rules (guiding principles)
-- QITCS Format (for stamping artifacts with question, inputs, transform, confidence, sunset)
+1. Read [PROTOCOL.md](PROTOCOL.md) (10 min)
+2. Apply QITCS format to one claim (15 min)
+3. Run `Fail()` to test your reasoning
+4. Set confidence as skeptic's survival odds
+5. Add sunset date
 
----
+## Status
 
-## The Protocol
+Looking for researchers willing to test LRP on one claim and report what breaks.
 
-📄 **[Read the full protocol →](PROTOCOL.md)**
+## Contributing
 
----
+Contributions welcome. Corrections celebrated. Dissolutions honored.
 
-## Development
-
-Protocol emerged from family court transparency research as scaffolding for fragmented knowledge creation.
-
-**Development traces:** See [development-trace/](development-trace/) folder for how this protocol actually emerged (messy, chaotic, real).
-
-**Version history:** Earlier iterations available in [family-court-reform repository](https://github.com/NoEndsNoGains/family-court-reform) commit history.
-
----
-
-## How to Use It
-
-1. Read the [protocol](PROTOCOL.md)
-2. Aim to use QITCS format on your knowledge generation
-3. Notice if it helps or hurts
-4. Revise as needed
-5. Share your experience (if you want)
-
----
-
-## Current Status
-
-See [PROTOCOL.md](PROTOCOL.md) for current version number and status.
-
-Protocol itself follows its own principles.
-
-**Creator's Sunset:** When I actively invite human collaboration OR when other humans join before that
-
----
-
-## Contributions
-
-Contributions, corrections, and dissolutions all welcome.
-
-If you find this useful, break it, improve it, or build something better—that serves the foundation.
-
----
+Open an issue or submit a pull request.
 
 ## License
 
-CC0-1.0 Universal (Public Domain)
-
-
----
-
-*This protocol is living research. It will dissolve when its purpose is fulfilled.*
+CC BY 4.0 - Use freely, cite properly, improve openly
