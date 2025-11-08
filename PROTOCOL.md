@@ -16,6 +16,9 @@
 
 *What you choose to care about most shows in whether you revise or defend when wrong.*
 
+**The protocol serves the process, not the values.**  
+*Values are tools for navigating process, not the destination.*
+
 **System Constraints:**  
 Truth requires error. Intelligence is distributed. Truth has lifespan. Attention is finite. Environment tests claims. Communication enables learning.  
 
