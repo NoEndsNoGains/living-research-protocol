@@ -40,3 +40,6 @@ I had to spend **weeks convincing myself** it **matters**.
 
 **Your wife,**  
 x
+P.S. It looks like I accidentally recreated the Campbell Collaboration's systematic review methodology. They already do everything I "invented". It is just I used different names to the same thing with me calling it "Living Research Protocol" and explaining it through farm gates. I literally reinvented the wheel. But I needed to build it myself, with your gates as the model, before I could understand that the wheel already existed.
+
+x
