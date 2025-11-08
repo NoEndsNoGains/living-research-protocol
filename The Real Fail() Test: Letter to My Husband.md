@@ -21,8 +21,7 @@ So I spent weeks writing down **reminders**:
 Stuff **you do automatically**.  
 But I **forget**. Or **skip it**. Or convince myself it **doesn’t matter**.
 
-I gave it a fancy name — **"Living Research Protocol"** —  
-because if it **feels important**, maybe I’ll **actually do it**.
+I gave it a fancy name — **"Living Research Protocol"** —  because if it **feels important**, maybe I’ll **actually do it**.
 
 Truth is, I **still don’t know** if it will help.  
 But I had to **try something**.  
