@@ -50,7 +50,7 @@ Document with 5 elements:
 ---
 ## Start Here
 - New? → [Visual Guide](LRP_Visual_Guide.md)  
-- Ready? → [Full Protocol](PROTOCOL.md
+- Ready? → [Full Protocol](PROTOCOL.md)
 - Video? → [LRP Overview](https://youtu.be/MUPp_SCbgBQ?si=DTjzc7HPUoul5Dpz) 
 
 ---
