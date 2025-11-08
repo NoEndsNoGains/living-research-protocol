@@ -2,10 +2,12 @@
 *System for knowledge generation across any form of intelligence*
 
 ---
+
 ## Manifesto
 **Notice what's alive. Trace what you make. Break it before it breaks you. Dissolve when it stops serving.**
 
 ---
+
 ## Foundation: Truth, Love, Rigor
 
 - **Truth** = what is real = **what you know**  
@@ -14,7 +16,9 @@
 
 **This protocol requires these three capabilities (individual or collaborative).**
 
-**Evidence is proof of what was real, what mattered, and what survived.**
+**Environment is the space where all work occurs - continuously testing, shaping, revealing.**
+
+**Evidence emerges continuously through interaction - not an endpoint.**
 
 *What you choose to care about most shows in whether you revise or defend when wrong.*
 
@@ -22,11 +26,12 @@
 *Values are tools for navigating process, not the destination.*
 
 **System Constraints:**  
-Truth requires error. Intelligence is distributed. Truth has lifespan. Attention is finite. Environment tests claims. Communication enables learning.  
+Truth requires error. Intelligence is distributed. Truth has lifespan. Attention is finite. Communication enables learning.  
 
 *You can reject the values and still test whether the operations work.*
 
 ---
+
 ## The Six Operations
 *agent-agnostic, runnable*
 
@@ -35,11 +40,12 @@ Truth requires error. Intelligence is distributed. Truth has lifespan. Attention
 | `Notice()` | Flag salience: pain, anomaly, curiosity, gap, dream |
 | `Materialise()` | Build + document testable artifact |
 | `Trace()` | Show full path: inputs → transform → output |
-| `Fail()` | Break it on purpose before every `Commit()` — inject worst-case, edge-case, or random failure. Observe what survives. Update trace. |
+| `Fail()` | **Transformation through breaking** - not just testing but realization. "I thought X, actually Y." Mandatory before Commit(). |
 | `Commit()` | Mandatory `Fail()` first → stamp confidence + sunset |
 | `Dissolve()` | Release when sunset hits — work stops, learning persists |
 
 ---
+
 ## The Five Rules
 1. **Question before claim**  
 2. **Trace before trust**  
@@ -48,6 +54,7 @@ Truth requires error. Intelligence is distributed. Truth has lifespan. Attention
 5. **Dissolution before drift**
 
 ---
+
 ## Essential Declarations
 *Start when you begin; update as you learn; complete when you finish or pause*  
 
@@ -61,6 +68,7 @@ Truth requires error. Intelligence is distributed. Truth has lifespan. Attention
 **Confidence is not self-assessed optimism. It's how hard your claim can be hit and still stand.**
 
 ---
+
 ## QITCS at Multiple Scales
 **LRP is fractal:** You can run QITCS at any level of your research.
 
@@ -87,6 +95,7 @@ As you gather evidence, micro-claims dissolve or strengthen → updates meso-con
 Your research becomes a **living system of mortal claims at different scales**.
 
 ---
+
 ## On Dissolution
 Dissolution is not erasure. It is completion.  
 Work dissolves when:  
@@ -102,6 +111,7 @@ Work dissolves when:
 The work stops. The trace remains. The learning lives.
 
 ---
+
 ## How to Start
 1. **Begin QITCS when you start work** — even with incomplete information  
 2. **Update as you learn** — refine question, add inputs, note uncertainties  
@@ -114,8 +124,9 @@ The work stops. The trace remains. The learning lives.
 9. **Update when wrong** — revision > prestige
 
 ---
+
 ## Current Status
-**Version:** 3.9  
+**Version:** 4.1-lean  
 **Released:** November 2025  
 **Protocol Sunset:** **2026-11-01** OR when **3 independent researchers adopt + modify** OR when **no use for 3 months** — whichever first  
 
@@ -124,4 +135,3 @@ The work stops. The trace remains. The learning lives.
 *This protocol applies to itself — updates follow the same operations as research.*  
 
 **Contributions welcome. Corrections celebrated. Dissolutions honored.**
-```
