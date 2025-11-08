@@ -14,6 +14,8 @@
 - **Love** = what matters = **what you care about**  
 - **Rigor** = what survives = **what you leave behind**
 
+**Imperfect use beats perfect theory.**
+
 **This protocol requires these three capabilities (individual or collaborative).**
 
 **Environment is the space where all work occurs - continuously testing, shaping, revealing.**
