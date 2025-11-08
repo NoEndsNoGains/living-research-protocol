@@ -1,4 +1,4 @@
-# Living Research Protocol - Philosophy
+mi# Living Research Protocol - Philosophy
 *Why it works this way*
 
 ---
@@ -318,7 +318,7 @@ This philosophy emerged through using LRP on itself - specifically, stress testi
 
 **Want visual understanding?** → [Visual Guide](LRP_Visual_Guide.md)
 
-**Want narrative introduction?** → [Stories](LRP_Story_1_Hook_v4.md)
+**Want narrative introduction?** → [Stories](https://github.com/NoEndsNoGains/living-research-protocol/blob/main/The%20Real%20Fail()%20Test:%20Letter%20to%20My%20Husband.md)
 
 **Want to test it?** → Use it on your own work, report what breaks
 
