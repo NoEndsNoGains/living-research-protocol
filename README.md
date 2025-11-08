@@ -4,28 +4,28 @@
 ---
 
 ## What This Is
-
 A system for creating claims with evidence that survive challenge.
 
-**For any intelligence capable of truth-seeking, care, and testing across time** - whether one intelligence or many working together.
+For any intelligence(s) capable of truth-seeking, care, and testing across time.
 
-**Foundation:** Truth (what's real) + Love (what matters) + Rigor (what survives) → Evidence
+## Foundation:
+Truth (what's real) + Love (what matters) + Rigor (what survives) → Evidence
 
-**Core principles:** Question before claim. Trace before trust. Fail before commit. Revision before prestige. Dissolution before drift.
+## Core principles:
+Question before claim. Trace before trust. Fail before commit. Revise before prestige. Dissolve before drift.
 
 ---
 
 ## Start Here - Choose Your Path
 
 **New to LRP?**  
-→ [Visual Guide](LRP_Visual_Guide.md) - Start with the map, explore six perspectives if needed
+→ [Visual Guide](LRP_Visual_Guide.md) 
 
 **Ready to use it?**  
 → [Full Protocol](PROTOCOL.md) - Complete documentation
 
-**Prefer stories?**  
-→ [Video Overview](https://notebooklm.google.com/notebook/...) - Audio explanation  
-→ [Written Stories](LRP_Story_1_Hook_v4.md) - Narrative introduction with examples
+**Want something else?**  
+→ [Visual Guide](LRP_Visual_Guide.md) 
 
 ---
 
@@ -33,7 +33,7 @@ A system for creating claims with evidence that survive challenge.
 
 **5 steps to use LRP on your first claim:**
 
-1. **Notice** - Name what's alive (what won't let you sleep)
+1. **Notice** - Name what's alive 
 2. **Materialize** - Start making something testable
 3. **Develop** - Fail ↔ Trace ↔ Commit (stress test, document, establish ground - repeat as many cycles as care asks)
 4. **Set sunset** - When will you review this? (date or condition)
