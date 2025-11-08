@@ -2,8 +2,11 @@
 **Love,**
 
 You asked what I was doing all those weeks on the sofa.
+Well, I was thinking about how I think and is there a way to think better and what is the most effecive way to do something useful, i mean actually useful, with this thinking. 
+(If you are still listening/reading this after this last sentence, you are not my husband. But if yiu were my husband and by some miracle you would continue to listen, you will hear this: ).
 
-I was trying to figure out how to **stop wasting months** on work that turns out to be wrong or not something I really knew was of value.
+I was trying to figure out how to **stop wasting months** on work that was not integral to who I am and which I knew is not a true calue i want to create or be associated with . 
+and i asked mysel: how on Earth would i do it? 
 
 You know when something's broken — you can **see it, touch it, fix it**.  
 When my research is broken, I **don’t know** until months of work collapse.  
