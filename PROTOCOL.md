@@ -1,24 +1,24 @@
 # Living Research Protocol
-*Truth-seeking for intelligence in any form*  
-*For anyone interested in this form of knowledge creation.*
+*System for knowledge generation across any form of intelligence*
 
 ---
 ## Manifesto
-**Notice what's alive. Trace what you make. Break it before it breaks you. Dissolve when it stops serving. Apply care at each step.**
+**Notice what's alive. Trace what you make. Break it before it breaks you. Dissolve when it stops serving.**
 
 ---
-## Foundation
-**Truth-Guided Love Through Rigor**  
-*persistent seeking of: what is real (truth) + what matters (love) + what survives (rigor)*
+## Foundation: Truth, Love, Rigor
 
-- **Truth** = falsifiable, updatable signal = *what you know*  
-- **Love** = sustained attention + resource flow = *what you care about*  
-- **Rigor** = what withstands challenge = *what you test*  
+- **Truth** = what is real = **what you know**  
+- **Love** = what matters = **what you care about**  
+- **Rigor** = what survives = **what you leave behind**
 
-**Success** = revision velocity > prestige velocity  
+**Evidence is proof of what was real, what mattered, and what survived.**
+
+*What you choose to care about most shows in whether you revise or defend when wrong.*
 
 **System Constraints:**  
-Truth requires error. Intelligence is distributed. Truth has lifespan. Attention is finite. Communication enables learning.  
+Truth requires error. Intelligence is distributed. Truth has lifespan. Attention is finite. Environment tests claims. Communication enables learning.  
+
 *You can reject the values and still test whether the operations work.*
 
 ---
@@ -30,8 +30,8 @@ Truth requires error. Intelligence is distributed. Truth has lifespan. Attention
 | `Notice()` | Flag salience: pain, anomaly, curiosity, gap, dream |
 | `Materialise()` | Build + document testable artifact |
 | `Trace()` | Show full path: inputs → transform → output |
-| `Fail()` | **Break it on purpose** before every `Commit()` — inject worst-case, edge-case, or random failure. Observe what survives. Update trace. |
-| `Commit()` | **Mandatory `Fail()` first** → stamp confidence + sunset |
+| `Fail()` | Break it on purpose before every `Commit()` — inject worst-case, edge-case, or random failure. Observe what survives. Update trace. |
+| `Commit()` | Mandatory `Fail()` first → stamp confidence + sunset |
 | `Dissolve()` | Release when sunset hits — work stops, learning persists |
 
 ---
@@ -54,25 +54,6 @@ Truth requires error. Intelligence is distributed. Truth has lifespan. Attention
 - **Sunset:** When does this claim expire or need review?  
 
 **Confidence is not self-assessed optimism. It's how hard your claim can be hit and still stand.**
-
----
-### Example QITCS
-```yaml
-question: Can ease of transcript access serve as pathway to family court transformation?
-inputs: [HMCTS procedures, FPR rules, case law, FOI data, learning theory,
-         practitioner accounts, user experiences]
-transform: Five-layer triangulation, design failure mapping,
-           least-resistance reform proposals
-confidence: 0.5 [0.4-0.6]
-  # After Fail(): dropped from 0.6 when blackout scenario collapsed claim
-uncertainties_and_confidence:
-  High confidence: Transcript barriers exist and prevent transparency
-  Moderate confidence: Transcripts necessary infrastructure for learning
-  Low confidence: Accessibility alone will trigger transformation
-  Unknown: Political will; whether people will analyze available transcripts
-sunset: 2026-06-01 OR when HMCTS reforms implemented OR when transformation
-        evidence emerges OR when court case concludes OR when energy moves
-```
 
 ---
 ## QITCS at Multiple Scales
@@ -132,6 +113,8 @@ The work stops. The trace remains. The learning lives.
 **Version:** 3.9  
 **Released:** November 2025  
 **Protocol Sunset:** **2026-11-01** OR when **3 independent researchers adopt + modify** OR when **no use for 3 months** — whichever first  
+
+**Revision trigger:** When the protocol stops helping intelligence generate evidence of what is real, what matters, and what survives.
 
 *This protocol applies to itself — updates follow the same operations as research.*  
 
