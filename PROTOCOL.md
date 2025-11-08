@@ -12,6 +12,8 @@
 - **Love** = what matters = **what you care about**  
 - **Rigor** = what survives = **what you leave behind**
 
+**This protocol requires these three capabilities (individual or collaborative).**
+
 **Evidence is proof of what was real, what mattered, and what survived.**
 
 *What you choose to care about most shows in whether you revise or defend when wrong.*
