@@ -109,7 +109,12 @@ How disappointing — to realise I’m not as original as I hoped to be
 (not to mention, just late to the table).
 
 I just used different names — called it the **“Living Research Protocol”**  
-and explained it through your **farm work.**  
+and explained it through your **farm work.**  It’s really just your way of farming, translated into my language: you work with what’s real — what grows, what eats, what fails — while I try to do the same with thought. We both test for life.
 So yes, I reinvented the wheel.  
 But I needed to build it myself — **with you as my tester** —  
-before I could understand that the wheel already existed.
+before I could understand that the wheel already existed. And now, with my slightly more corrected vision of what I’ve created,  
+comes the hardest test of all — the **usability test.**  
+Ah, but this time I don’t have to worry:  
+if I’ve created a zombie,  
+it already has a **termination date.**  
+Phew.
