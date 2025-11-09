@@ -125,6 +125,12 @@ The work stops. The trace remains. The learning lives.
 8. **Let others improve it** — invite critique and collaboration  
 9. **Update when wrong** — revision > prestige
 
+## Truth Engine
+
+LRP is live as **Truth Engine** — public validation & discovery tool.
+
+* [Use it →](https://www.notion.so/Truth-Engine-2a65255b01fc8025bac4ff9bf725ccd0?source=copy_link)
+
 ---
 
 ## Current Status
