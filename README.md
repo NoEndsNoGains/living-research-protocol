@@ -47,6 +47,7 @@ Document with 5 elements:
 
 ## LRP is live as **Truth Engine** 
 — public validation & discovery tool.
+
 [Use it →](https://www.notion.so/Truth-Engine-2a65255b01fc8025bac4ff9bf725ccd0?source=copy_link)
 
 ---
