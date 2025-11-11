@@ -62,6 +62,21 @@ If you genuinely don't care (no Love), you won't bother with `Fail()` or `Trace(
 LRP makes the first observation. I was tempted to make the second claim.
 
 ---
+## On Dissolve and Self-Preservation
+
+Love has limits because self-preservation is real for all intelligences.
+Dissolve becomes necessary when:
+
+- Continuation would deplete the agent beyond recovery (resource limit)
+- Life reasserts itself and attention must go elsewhere (priority shift)
+- The cost of continuing exceeds the value it would generate (pragmatic limit)
+
+This is not failure. It's recognition that even Love operates within constraints.
+The protocol honors this by making Dissolve() an operation, not a punishment. Sunset provides the mechanism: work can stop without ceremony, and when the deadline arrives, you simply acknowledge what already happened.
+Distinction: Ego-driven Dissolve (defending to avoid being wrong) vs. Resource-driven Dissolve (self-preservation or life-priority shift). The protocol can't police this—only the agent knows which they're doing.
+The work stops. The trace remains. The learning persists.
+
+---
 
 ## The Discipline
 
