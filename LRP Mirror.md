@@ -33,7 +33,7 @@
 ## Diagnostic Question
 
 *Am I treating failure as error to be corrected, or as data to be learned from?*
-*What in inbetween? Cleaning? Chaoes? Unconcious? 
+*What in inbetween? Cleaning? Chaoes? Unconcious? Instinct? Intuition? 
 
 ---
 
