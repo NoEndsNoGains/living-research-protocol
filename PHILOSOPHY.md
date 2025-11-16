@@ -15,7 +15,7 @@ This is for those who want to understand:
 
 ---
 
-## Core Insight: Knowledge Generation is Multidimensional
+### Core Insight: Knowledge Generation is Multidimensional
 
 LRP is not a linear process. It's a set of modes you navigate based on what's alive.
 
@@ -33,9 +33,9 @@ See [Visual Guide](LRP_Visual_Guide.md) for six perspectives on this multidimens
 
 ---
 
-## Why These Operations?
+### Why These Operations?
 
-### Why Notice() Focuses on "What's Alive"
+#### Why Notice() Focuses on "What's Alive"
 
 **Traditional research:** "Here's my research question" (decided upfront, static)
 
@@ -49,7 +49,7 @@ See [Visual Guide](LRP_Visual_Guide.md) for six perspectives on this multidimens
 
 **This explains why forgotten knowledge isn't lost:** If important, environment will create impulse to notice it again.
 
-### Why Fail() is Transformation, Not Procedure
+#### Why Fail() is Transformation, Not Procedure
 
 **Traditional testing:** "Did my hypothesis pass/fail?" (binary outcome)
 
@@ -77,7 +77,7 @@ See [Visual Guide](LRP_Visual_Guide.md) for six perspectives on this multidimens
 
 **This explains the 4,000 changes to a document:** Each change is evidence of a Fail ↔ Trace ↔ Commit cycle.
 
-### Why Dissolution Isn't Failure
+#### Why Dissolution Isn't Failure
 
 **Traditional view:** Abandoned projects = failure
 
@@ -93,7 +93,7 @@ See [Visual Guide](LRP_Visual_Guide.md) for six perspectives on this multidimens
 
 ---
 
-## Meta-Cognition as Core Feature
+### Meta-Cognition as Core Feature
 
 **Meta-cognition = thinking about thinking**
 
@@ -113,7 +113,7 @@ See [Visual Guide](LRP_Visual_Guide.md) for six perspectives on this multidimens
 
 ---
 
-## Attention Model: Selective, Not Catastrophic
+### Attention Model: Selective, Not Catastrophic
 
 **The "catastrophic forgetting" problem in AI:**
 - Train on task A, then task B → loses ability to do task A
@@ -144,7 +144,7 @@ See [Visual Guide](LRP_Visual_Guide.md) for six perspectives on this multidimens
 
 ---
 
-## Self-Defined Goals Through Values
+### Self-Defined Goals Through Values
 
 **Traditional goal-setting:** "Here's my goal" (explicit, predetermined)
 
@@ -169,7 +169,7 @@ See [Visual Guide](LRP_Visual_Guide.md) for six perspectives on this multidimens
 
 ---
 
-## Single Goal: Knowledge Generation
+### Single Goal: Knowledge Generation
 
 **What LRP is NOT trying to do:**
 - Align AI goals with human goals
@@ -189,9 +189,9 @@ See [Visual Guide](LRP_Visual_Guide.md) for six perspectives on this multidimens
 
 ---
 
-## Relation to Intelligence and AGI Research
+### Relation to Intelligence and AGI Research
 
-### What LRP Provides
+#### What LRP Provides
 
 **Meta-cognition:** Structure for thinking about thinking (required for System 2 reasoning)
 
@@ -209,7 +209,7 @@ See [Visual Guide](LRP_Visual_Guide.md) for six perspectives on this multidimens
 
 **Complete intelligence architecture:** LRP is knowledge generation protocol, not full cognitive system.
 
-### Where LRP Fits
+#### Where LRP Fits
 
 **LRP could be component of AGI systems:**
 - Knowledge management layer
@@ -230,9 +230,9 @@ See [Visual Guide](LRP_Visual_Guide.md) for six perspectives on this multidimens
 
 ---
 
-## Design Decisions
+### Design Decisions
 
-### Why QITCS, Not Standard Methods Section?
+#### Why QITCS, Not Standard Methods Section?
 
 **Standard methods:** "Here's what I did" (retrospective, justification)
 
@@ -261,7 +261,7 @@ See [Visual Guide](LRP_Visual_Guide.md) for six perspectives on this multidimens
 
 **Your intelligence navigates based on what's alive** - which value is calling, which mode is needed, what environment demands.
 
-### Why "Revision Before Prestige"?
+#### Why "Revision Before Prestige"?
 
 **Academic incentive:** Defend claims to maintain reputation
 
@@ -273,7 +273,7 @@ See [Visual Guide](LRP_Visual_Guide.md) for six perspectives on this multidimens
 
 ---
 
-## What This Protocol Cannot Fully Capture
+### What This Protocol Cannot Fully Capture
 
 **Knowledge generation is multidimensional.**
 
@@ -296,7 +296,7 @@ The protocol points toward practice - practice reveals what words cannot capture
 
 ---
 
-## How This Philosophy Developed
+### How This Philosophy Developed
 
 This philosophy emerged through using LRP on itself - specifically, stress testing the protocol through:
 
@@ -312,7 +312,7 @@ This philosophy emerged through using LRP on itself - specifically, stress testi
 
 ---
 
-## For Further Exploration
+### For Further Exploration
 
 **Want practical use?** → [PROTOCOL.md](PROTOCOL.md)
 
