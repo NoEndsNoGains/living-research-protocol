@@ -1,9 +1,9 @@
-mi# Living Research Protocol - Philosophy
+## Living Research Protocol - Philosophy
 *Why it works this way*
 
 ---
 
-## Purpose of This Document
+### Purpose of This Document
 
 This document explains the thinking behind LRP's design. You don't need to read this to USE the protocol - go to [PROTOCOL.md](PROTOCOL.md) for that.
 
