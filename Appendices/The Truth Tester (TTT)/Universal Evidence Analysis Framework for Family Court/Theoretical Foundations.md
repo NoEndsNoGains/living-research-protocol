@@ -84,11 +84,14 @@ Actual reality itself does not shift or get rewritten—it is simply understood 
 
 ## CRITICAL UNDERSTANDING: THE ARCHITECTURE OF SILENCE
 
-**1. The Boundary of Capture**: Documentary Reality is the sum of events of capture and the silences they create. Every act of recording draws a boundary—a line between the captured and the uncaptured.
+**The Boundary of Capture**
+Documentary Reality is the sum of events of documentary reality as well as the silences they create. Documentary reality draws a boundary—a line between the documented and undocumented.
 
-**2. The Constraints of the Observer**:  This boundary is not random and it is not neutral. It is determined by the specific limitations of the observer. 
+The boundary is not random and it is not neutral. It is shaped by the concrete constraints of the capturing system itself:
+It is not random as predetermined by documentary reality. 
+It is not netural as determined by the specific limitations of documentary reality itself (e.g. who captures? who creates? what captures? what creates? why captures? when captures? when creates? where captures? where creates? why creates? how captures? how creates?) 
 
-The silence represents:
+The silence represents the documentry reality thought is boundary and actual reality through the boundary reconconcupationins int he presence and actul reality freeling occupating it's space withing the boundary. 
 
 Intentional Blindness: What the observer chose not to see.
 
