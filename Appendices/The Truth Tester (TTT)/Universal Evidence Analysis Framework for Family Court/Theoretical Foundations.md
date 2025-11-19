@@ -84,7 +84,16 @@ Actual reality itself does not shift or get rewritten—it is simply understood 
 
 ## CRITICAL UNDERSTANDING: THE ARCHITECTURE OF DOCUMENTARY REALITY
 
-Capture is a subset of creation.
+
+Nature creates constantly: bruises, tears, sounds, memories, physical evidence.
+But unless that creation is captured (turned into Creation) by a human or human tool, it stays nature, not documentary reality.
+The moment nature’s creation is captured → it becomes Creation.
+If capturable but not captured → it becomes Silence.
+If never capturable → remains pure nature (outside the sum).
+Documentary reality = Creation + Silence.
+Nature feeds both, but only enters the equation when it crosses the human boundary.
+
+mCapture is a subset of creation.
 All capture is created (by someone/something).
 Documentary reality = Creation (which includes capture) + Silence (shaped non-creation).
 Core sum unchanged: Creation + Silence.
