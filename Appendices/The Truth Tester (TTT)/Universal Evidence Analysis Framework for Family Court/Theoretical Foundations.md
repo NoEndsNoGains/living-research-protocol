@@ -82,14 +82,49 @@ Actual reality itself does not shift or get rewritten—it is simply understood 
 
 ---
 
-## CRITICAL UNDERSTANDING: THE ARCHITECTURE OF SILENCE
+## CRITICAL UNDERSTANDING: THE ARCHITECTURE OF DOCUMENTARY REALITY
+
+1. The Sum of Capture and Silence Documentary Reality is not just what is written. It is the sum of events of capture and the silences they create. Every document draws a sharp boundary between the documented and the undocumented. The Truth Tester sees everything inside the boundary as Data and everything outside it as Silence.
+
+2. The Boundary is Not Neutral This boundary is neither random nor accidental. It is shaped by the concrete, human constraints of the capture itself. The shape of the boundary—and therefore the shape of the silence—is determined by specific variables:
+
+Who captures? Who creates?
+
+What is captured? Why is it captured?
+
+When and Where does creation happen?
+
+How is the capture performed?
+
+3. The Typology of Blindness These constraints create four specific types of silence:
+
+Intentional Blindness: What the observer chose not to see.
+
+Structural Blindness: What was not possible to see.
+
+Temporal Blindness: What was not there yet.
+
+Conceptual Blindness: The capture is strictly limited to what the observer is capable of imagining.
+
+4. Silence as a Positive Trace Consequently, the silence is not empty space. It is a structure shaped by these limitations. The "Shape of the Silence" is itself part of Documentary Reality. It is a positive, fixed trace of the observer’s boundaries. Actual Reality inhabits this silence, filling the specific hole left by the capture.
+
+5. Structural Distortion Documentary Reality is never a neutral photograph of Actual Reality. It is always distorted by the act of capture—by power, fear, intent, and access. Therefore, the gap measured by the framework is always distorted by the medium itself.
+
+6. The Framework’s Stance The framework does not hide this distortion, does not fix it, and will never pretend it is fair. Its only job is to measure Documentary Reality exactly as it is—including the screaming shape of what it is not—and to refuse to call that shape neutral.
 
 **The Boundary of Capture**
-Documentary Reality is the sum of events of documentary reality as well as the silences they create. Documentary reality draws a boundary—a line between the documented and undocumented. The boundary belongs to documentary reality - the void outside it to does not.
-
-The boundary is not random and it is not neutral. 
-It is not random as predetermined by documentary reality. 
-It is not netural, as it is documentary reality, the boundary itself is shaped by the concrete constraints of the documentary reality itself:
+Documentary reality is the sum of events of capture and the silences they create.
+It draws a sharp boundary between the documented and the undocumented.
+We call the undocumented side “silence”.
+That boundary is neither random nor neutral.
+It is not random — it is predetermined by the very nature and limits of documentary reality itself.
+It is not neutral — it exists only through the concrete constraints of documentation:
+who/what can capture, what can be captured, when, where, why, and how.
+The boundary is the edge of documentary reality.
+Everything inside it is visible to the Truth Tester.
+Everything outside it — the silence — is shaped by that edge.
+Because it has shape, silence is no longer invisible.
+It is evidence.
 
 (e.g. who captures? who creates? what captures? what creates? why captures? when captures? when creates? where captures? where creates? why creates? how captures? how creates?) 
 Intentional Blindness: What the observer chose not to see.
