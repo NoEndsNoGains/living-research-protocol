@@ -11,7 +11,7 @@ This framework tests **competing versions of events against documentary evidence
 
 **The test:** If the information relies on a living human mind to exist, it is not documentary. It must exist independently on a substrate that persists beyond the individual.
 
-**This excludes:** Oral testimony (unless transcribed), witness demeanor, lived emotional experience, anything never externalized. Not because these are less true, but because they cannot be systematically compared across competing versions using current methodology.
+**This excludes:** Everything never externalised or captured in the from alowing analyses. These are exluded not because these are less true, but because they cannot be systematically compared across competing versions using current methodology.
 
 **Applicable to:** Any context where documentary evidence exists and competing narratives need systematic testing.
 
@@ -47,53 +47,74 @@ Responsibility for the selection—and the resulting reality—rests entirely wi
 
 ## THE TWO TYPES OF REALITY
 
-**This framework distinguishes:**
+## Documentary Reality
 
-- **Documentary reality:** reality based on documentary evidence only; **Documentary evidence** is seen as incomplete, partial, limited by what was captured through the prism of the capture.  
-- **Actual/Material reality:** reality including but not limited to documentary evidence seen as representing snapshots of actual/material reality**. 
+What can be known from documentary evidence only.
 
-This framework assumes actual (material) reality is singular and unified where all elements of reality falds in itself and co-exist. Documentary reality is example of it in its limitation.
+Documentary evidence is incomplete, partial, limited by what was captured through the prism of the act of capture. It is in the past. Documentary reality is a subset of actual reality—a partial, filtered snapshot based on the vantage point of the observer.
 
-THE TWO TYPES OF REALITY
+## Actual Reality
 
-This framework distinguishes:
+The fullness of the reality that actually exists.
 
-**Documentary Reality:** What can be known from documentary evidence only.
-Documentary evidence is incomplete, partial, limited by what was captured through the prism of the capture. It is in the past. Documentary reality is a subset of material reality - a partial, filtered snapshot based on the vented point of the observer.
+It includes everything—documented and undocumented, recorded and unrecorded.
 
-Material Reality: is a fullness of the reality taht actully exists; is includes everything - documented and undocumented, recorded and unrecorded. It is present and yet emerging. It is singular and yet relationship. Everything that happened and will happen exists within it, whether documented or not. It is continuesly emerging. It can be defined as truth.
+It is present and yet emerging, with what emerges being new documentary evidence.
 
-The framework uses documentary reality to estimate distance to material reality (what is the "gap").
+It contains static while being dynamic; singular and yet deeply relational.
 
----
+Everything that happened and will happen exists within it.
 
-## CRITICAL UNDERSTANDING: DOCUMENTS ARE NOT NEUTRAL
+Documentary reality is part of actual reality, both as it is and as it is occurring in the present. Hence, actual reality is present, holds the past, and emerges the future.
 
-**Documents are not passive recordings. They are:**
-- **Performances** - Written for an audience
-- **Strategic tools** - Created to advance positions
-- **Weapons** - Used in disputes
-- **Narratives** - Constructed stories, not raw facts
-- **Products of power** - Created by those with access to documentation
+It can be defined as ultimate truth.
 
-**This framework systematically advantages:**
-- Institutions over individuals
-- Those in power over those excluded from power
-- Compulsive documenters over those who don't document
-- Strategic record-creators over those who document honestly
-- Those with legal advice over those without
-- Those who can fabricate paper trails over those who cannot
-- Those with access to documentation channels over those denied access
+## The Gap
 
-**If one party creates 100 documents and another was excluded from documentation spaces, the framework will show large "silence gaps" for the excluded party and "documentary alignment" for the over-documented party.**
+The Truth Tester (TTT) framework uses the selected documentary reality to estimate the distance to the living fullness of actual reality, as best approximated by the observer. This distance is called "the gap".
 
-**This is not neutral. This reflects power asymmetries in documentation access.**
+The measured gap is always imprecise and continuously shifts—not because actual reality itself changes, but because:
 
-**The framework cannot correct for this. It can only make it visible.**
+- the bundle of documentary evidence continuously changes (new documents appear, old ones are re-contextualised), and
+- the observer's relational understanding and perception of the unchanging actual reality undergoes feeling.
+
+Actual reality itself does not shift or get rewritten—it is simply understood each time with a bit more ease.
 
 ---
 
-## THREE KEY LIMITATIONS
+## CRITICAL UNDERSTANDING: DOCUMENTARY REALITY IS NOT NEUTRAL
+
+Documentary reality is not a neutral photograph of actual reality.
+It is the sum of events of capture and events of no occurance — both ultimately human in its natue as both performed and actualised by the observer or not - both still being documenary reality.
+The Truth Tester can only see documentary reality - it can asessse events of no occurance. These are seen as if they do nto exists whist they part of the actual reality.
+Therefore the measured gap between documentary reality and actual reality will always be distorted by documentary reality itself — by what it is and by what it is not even thought the TTT can only assess the first and even thought the first is in itself disored thought eh act of the perfomrance and papature of the observer itself. 
+
+The framework does not hide it, does not fix it, and will never pretend it is fair. The role of the TTT is simply to realy on waht the eocument reality is (not what it is missing"). 
+
+Documentary reality is not a neutral photograph of actual reality.
+It is the sum of events of capture and events of non-capture — both ultimately human: performed or withheld, spontaneous or strategic, shaped by power, fear, love, intent, and access.
+The Truth Tester can only see documentary reality, but it does see the non-capture.
+Silence is not invisible to the framework — it is registered as a positive fact: the absence of an expected trace.
+Therefore the measured gap is always distorted by documentary reality itself — by what was captured and by what was not, even though the framework can only directly read the first.
+This distortion is structural, not accidental.
+The framework does not hide it, does not fix it, and will never pretend it is fair.
+Its only job is to measure documentary reality exactly as it is — including the screaming shape of what it is not — and to refuse to call that shape neutral.
+
+## CRITICAL UNDERSTANDING: THE STRUCTURAL BLINDNESS
+Documentary Reality is not a neutral photograph. It is the sum of "events of capture" and "events of no-occurrence." Both are human acts. To record something is a choice; to not record something is also a choice. Both result in the specific shape of the Documentary Reality.
+
+The Truth Tester (TTT) sees only the Documentary Reality. It cannot access Actual Reality. It treats "events of no-occurrence" (silence) literally—as things that do not exist in the record—even though they exist in Actual Reality.
+
+The Double Distortion Therefore, the gap measured by the framework is inherently distorted:
+
+Distortion by the Observer (who chose what to capture/not capture).
+
+Distortion by the Tool (which can only assess the captured product, not the reality behind it).
+
+The Framework does not hide this. It does not fix it. It simply relies on it. The role of the TTT is to analyze exactly what Documentary Reality is—distortions and all—not to speculate on what it is missing.
+---
+
+## THREE KEY LIMITATIONS of TTT
 
 **1. Knowledge in anyone's mind cannot be tested** - If never documented, framework cannot verify it
 
