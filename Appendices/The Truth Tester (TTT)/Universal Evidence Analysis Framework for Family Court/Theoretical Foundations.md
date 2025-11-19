@@ -84,6 +84,11 @@ Actual reality itself does not shift or get rewritten—it is simply understood 
 
 ## CRITICAL UNDERSTANDING: THE ARCHITECTURE OF DOCUMENTARY REALITY
 
+Capture is a subset of creation.
+All capture is created (by someone/something).
+Documentary reality = Creation (which includes capture) + Silence (shaped non-creation).
+Core sum unchanged: Creation + Silence.
+
 1. The Sum of Capture and Silence Documentary Reality is not just what is written. It is the sum of events of capture and the silences they create. Every document draws a sharp boundary between the documented and the undocumented. The Truth Tester sees everything inside the boundary as Data and everything outside it as Silence.
 
 2. The Boundary is Not Neutral This boundary is neither random nor accidental. It is shaped by the concrete, human constraints of the capture itself. The shape of the boundary—and therefore the shape of the silence—is determined by specific variables:
