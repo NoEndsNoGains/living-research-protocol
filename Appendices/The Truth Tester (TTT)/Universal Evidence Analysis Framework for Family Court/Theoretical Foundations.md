@@ -85,14 +85,13 @@ Actual reality itself does not shift or get rewritten—it is simply understood 
 ## CRITICAL UNDERSTANDING: THE ARCHITECTURE OF SILENCE
 
 **The Boundary of Capture**
-Documentary Reality is the sum of events of documentary reality as well as the silences they create. Documentary reality draws a boundary—a line between the documented and undocumented.
+Documentary Reality is the sum of events of documentary reality as well as the silences they create. Documentary reality draws a boundary—a line between the documented and undocumented. The boundary belongs to documentary reality - the void outside it to does not.
 
-The boundary is not random and it is not neutral. It is shaped by the concrete constraints of the capturing system itself:
+The boundary is not random and it is not neutral. 
 It is not random as predetermined by documentary reality. 
-It is not netural as determined by the specific limitations of documentary reality itself (e.g. who captures? who creates? what captures? what creates? why captures? when captures? when creates? where captures? where creates? why creates? how captures? how creates?) 
+It is not netural, as it is documentary reality, the boundary itself is shaped by the concrete constraints of the documentary reality itself:
 
-The silence represents the documentry reality thought is boundary and actual reality through the boundary reconconcupationins int he presence and actul reality freeling occupating it's space withing the boundary. 
-
+(e.g. who captures? who creates? what captures? what creates? why captures? when captures? when creates? where captures? where creates? why creates? how captures? how creates?) 
 Intentional Blindness: What the observer chose not to see.
 
 Structural Blindness: What was not possible to see.
@@ -100,6 +99,12 @@ Structural Blindness: What was not possible to see.
 Temporal Blindness: What was not there yet.
 
 Conceptual Blindness: The capture is strictly limited to what the observer is capable of imagining.
+
+
+The silence represents the documentry reality thought is boundary. The actual reality exists though the reconceptuptions of the boundary itself and thought the filling of it - inhabiting the silence and here, emergence of documetned relaity. 
+
+
+
 
 3. Silence as a Positive Trace Consequently, the silence is not empty space; it is a structure shaped by these limitations. The Shape of the Silence is itself part of Documentary Reality—a positive, fixed trace of the observer's boundaries.
 
