@@ -82,16 +82,47 @@ Actual reality itself does not shift or get rewritten—it is simply understood 
 
 ---
 
-## CRITICAL UNDERSTANDING: DOCUMENTARY REALITY IS NOT NEUTRAL
+## CRITICAL UNDERSTANDING: THE ARCHITECTURE OF SILENCE
+
+**1. The Boundary of Capture**: Documentary Reality is the sum of events of capture and the silences they create. Every act of recording draws a boundary—a line between the captured and the uncaptured.
+
+**2. The Constraints of the Observer**:  This boundary is not random and it is not neutral. It is determined by the specific limitations of the observer. 
+
+The silence represents:
+
+Intentional Blindness: What the observer chose not to see.
+
+Structural Blindness: What was not possible to see.
+
+Temporal Blindness: What was not there yet.
+
+Conceptual Blindness: The capture is strictly limited to what the observer is capable of imagining.
+
+3. Silence as a Positive Trace Consequently, the silence is not empty space; it is a structure shaped by these limitations. The Shape of the Silence is itself part of Documentary Reality—a positive, fixed trace of the observer's boundaries.
+
+4. The Function of the Framework The function of the TTT is dual:
+
+To analyze the positive data inside the boundary.
+
+To point to the silences—measuring the specific shape of the hole left by the boundary.
+
+
+
+The silences are exposed only documentary reality the framework can ever see.
 
 Documentary reality is not a neutral photograph of actual reality.
+
+
+The evidence of capture are limited by their creators istelf: both the creators observing themvlesmena and observes
+
+which are ultimately human in their nature and the only one interested in their documenting. 
+with the observer the only one able create, observe
 It is the sum of events of capture and events of no occurance — both ultimately human in its natue as both performed and actualised by the observer or not - both still being documenary reality.
 The Truth Tester can only see documentary reality - it can asessse events of no occurance. These are seen as if they do nto exists whist they part of the actual reality.
 Therefore the measured gap between documentary reality and actual reality will always be distorted by documentary reality itself — by what it is and by what it is not even thought the TTT can only assess the first and even thought the first is in itself disored thought eh act of the perfomrance and papature of the observer itself. 
 
-The framework does not hide it, does not fix it, and will never pretend it is fair. The role of the TTT is simply to realy on waht the eocument reality is (not what it is missing"). 
+The framework does not hide it, does not fix it, and will never pretend it is fair. The role of the TTT is simply to test the gap between the documented reality against the actual one.
 
-Documentary reality is not a neutral photograph of actual reality.
 It is the sum of events of capture and events of non-capture — both ultimately human: performed or withheld, spontaneous or strategic, shaped by power, fear, love, intent, and access.
 The Truth Tester can only see documentary reality, but it does see the non-capture.
 Silence is not invisible to the framework — it is registered as a positive fact: the absence of an expected trace.
@@ -101,7 +132,7 @@ The framework does not hide it, does not fix it, and will never pretend it is fa
 Its only job is to measure documentary reality exactly as it is — including the screaming shape of what it is not — and to refuse to call that shape neutral.
 
 ## CRITICAL UNDERSTANDING: THE STRUCTURAL BLINDNESS
-Documentary Reality is not a neutral photograph. It is the sum of "events of capture" and "events of no-occurrence." Both are human acts. To record something is a choice; to not record something is also a choice. Both result in the specific shape of the Documentary Reality.
+Documentary Reality is not a neutral photograph. It is the sum of "events of capture" and "events of no-capture." Both are human acts. To  something is a choice; to not record something is also a choice. Both result in the specific shape of the Documentary Reality.
 
 The Truth Tester (TTT) sees only the Documentary Reality. It cannot access Actual Reality. It treats "events of no-occurrence" (silence) literally—as things that do not exist in the record—even though they exist in Actual Reality.
 
