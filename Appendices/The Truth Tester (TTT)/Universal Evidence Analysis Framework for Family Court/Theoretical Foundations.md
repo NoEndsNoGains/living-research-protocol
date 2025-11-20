@@ -1,4 +1,11 @@
+_Personal Note: Hard. This one is hard. Certainly not a time to work on it. And yet, a capture is occurring._
+
+This is working draft. Might be never finished - miles away from it capture at this moment.
+
+20.11.2025
+
 # THE TRUTH TESTER: THEORETICAL FOUNDATIONS
+
 ## A Narrative Stress-Test Protocol
 
 ---
@@ -67,13 +74,13 @@ Everything that happened and will happen exists within it. It can be defined as 
 
 ## The Gap
 
-The Truth Tester (TTT) framework uses the selected documentary evidence to estimate the distance from what that evidence is, to the best approximated Actual Reality as imagined by the observer—within the inherent limits of their imagination. This distance is called "The Gap".
+The Truth Tester (TTT) framework uses the selected documentary evidence to estimate the distance from what that evidence is, to the best approximated Actual Reality as imagined by the observer—within the inherent limits of their imagination. This distance is called “The Gap”.
 
 The measured gap continuously shifts—not because Actual Reality itself changes, but because:
 
 The bundle of documentary evidence continuously changes (new documents appear, old ones are re-contextualised whilst remaining factually true).
 
-The observer's relational understanding and perception of the unchanging Actual Reality undergoes transformations.
+The observer’s relational understanding and perception of the unchanging Actual Reality undergoes transformations.
 
 Actual Reality itself does not shift or get rewritten. It is simply seen differently as the boundaries of documentary evidence shift—either sharpening or dissolving with each new capture.
 
@@ -81,590 +88,180 @@ Actual Reality itself does not shift or get rewritten. It is simply seen differe
 
 ## CRITICAL UNDERSTANDING: THE ARCHITECTURE OF DOCUMENTARY REALITY
 
-Nature creates constantly: bruises, tears, sounds, memories, physical evidence, a new cow 
-But unless that creation is captured (turned into Creation) it stays nature, not documentary reality.
-The cow does NOT need to be captured in order to exist.
-It only needs to be captured in order to enter Documentary Reality and become available for claims, stories, science, economics, or TTT evaluation about “that particular cow”.
-Most of nature never gets captured at all:
+### Nature and Creation
 
-99.999…% of bruises heal without being photographed,
-The moment nature’s creation is captured → it becomes Creation.
-If capturable but not captured → it becomes Silence.
-If never capturable → remains pure nature (outside the sum).
-Documentary reality = Creation + Silence.
-Nature feeds both, but only enters the equation when it crosses the human boundary.
+Nature creates constantly: bruises, tears, sounds, memories, physical evidence, a cow.  
 
-mCapture is a subset of creation.
-All capture is created (by someone/something).
-Documentary reality = Creation (which includes capture) + Silence (shaped non-creation).
-Core sum unchanged: Creation + Silence.
+All capture is created (by someone/something). Capture is a subset of creation.  
 
-1. The Sum of Capture and Silence Documentary Reality is not just what is written. It is the sum of events of capture and the silences they create. Every document draws a sharp boundary between the documented and the undocumented. The Truth Tester sees everything inside the boundary as Data and everything outside it as Silence.
+A cow does not need to be captured in order to exist.  
 
-2. The Boundary is Not Neutral This boundary is neither random nor accidental. It is shaped by the concrete, human constraints of the capture itself. The shape of the boundary—and therefore the shape of the silence—is determined by specific variables:
+The moment nature’s creation is captured, it is turned into Creation (capital C) and enters Documentary Reality, becoming available for testing the distance to Actual Reality.  
 
-Who captures? Who creates?
+Most of nature is never captured: 99.999…% of bruises heal without record; billions of events leave no trace.  
 
-What is captured? Why is it captured?
+- If capturable but not captured → it becomes Silence.  
 
-When and Where does creation happen?
+- If never capturable → it remains pure nature.
 
-How is the capture performed?
+### Documentary Reality Defined
 
-3. The Typology of Blindness These constraints create four specific types of silence:
+Documentary Reality = Creation (captured events) + Silence (shaped events of non-capture).  
 
-Intentional Blindness: What the observer chose not to see.
+It is the sum of events of capture and events of non-capture — both ultimately human: performed or withheld, spontaneous or strategic, shaped by power, fear, love, intent, and access.  
 
-Structural Blindness: What was not possible to see.
+Nature feeds both, but only crosses into Documentary Reality when it meets the human act of capture.
 
-Temporal Blindness: What was not there yet.
+### The Boundary of Capture
 
-Conceptual Blindness: The capture is strictly limited to what the observer is capable of imagining.
+Every act of capture draws a sharp, non-random, non-neutral boundary between the documented and the undocumented.  
 
-4. Silence as a Positive Trace Consequently, the silence is not empty space. It is a structure shaped by these limitations. The "Shape of the Silence" is itself part of Documentary Reality. It is a positive, fixed trace of the observer’s boundaries. Actual Reality inhabits this silence, filling the specific hole left by the capture.
+Inside the boundary: Data, visible to the Truth Tester.  
 
-5. Structural Distortion Documentary Reality is never a neutral photograph of Actual Reality. It is always distorted by the act of capture—by power, fear, intent, and access. Therefore, the gap measured by the framework is always distorted by the medium itself.
+Outside the boundary: Silence — shaped, positive, and part of Documentary Reality.  
 
-6. The Framework’s Stance The framework does not hide this distortion, does not fix it, and will never pretend it is fair. Its only job is to measure Documentary Reality exactly as it is—including the screaming shape of what it is not—and to refuse to call that shape neutral.
+The boundary is predetermined by the concrete constraints of capture:  
 
-**The Boundary of Capture**
-Documentary reality is the sum of events of capture and the silences they create.
-It draws a sharp boundary between the documented and the undocumented.
-We call the undocumented side “silence”.
-That boundary is neither random nor neutral.
-It is not random — it is predetermined by the very nature and limits of documentary reality itself.
-It is not neutral — it exists only through the concrete constraints of documentation:
-who/what can capture, what can be captured, when, where, why, and how.
-The boundary is the edge of documentary reality.
-Everything inside it is visible to the Truth Tester.
-Everything outside it — the silence — is shaped by that edge.
-Because it has shape, silence is no longer invisible.
-It is evidence.
+Who captures? What is captured? Why? When? Where? How?
 
-(e.g. who captures? who creates? what captures? what creates? why captures? when captures? when creates? where captures? where creates? why creates? how captures? how creates?) 
-Intentional Blindness: What the observer chose not to see.
+### The Four Types of Silence
 
-Structural Blindness: What was not possible to see.
+1. Intentional Blindness: what was chosen not to be recorded.  
 
-Temporal Blindness: What was not there yet.
+2. Structural Blindness: what could not possibly be recorded.  
 
-Conceptual Blindness: The capture is strictly limited to what the observer is capable of imagining.
+3. Temporal Blindness: what was not there yet or is no longer there.  
 
+4. Conceptual Blindness: what the observer was incapable of imagining.
 
-The silence represents the documentry reality thought is boundary. The actual reality exists though the reconceptuptions of the boundary itself and thought the filling of it - inhabiting the silence and here, emergence of documetned relaity. 
+### Silence as Positive Evidence
 
+Silence is not empty or invisible.  
 
+It is a fixed, traceable structure inside Documentary Reality — the exact contour left by the boundary.  
 
+Actual Reality fully inhabits this shaped silence until a new capture reconfigures it: part of the old silence becomes new documented evidence, and a new silence with new contours is instantly born.
 
-3. Silence as a Positive Trace Consequently, the silence is not empty space; it is a structure shaped by these limitations. The Shape of the Silence is itself part of Documentary Reality—a positive, fixed trace of the observer's boundaries.
+### The Principle of Double-Dimensional Distortion
 
-4. The Function of the Framework The function of the TTT is dual:
+Documentary Reality is the collision of two forces:  
 
-To analyze the positive data inside the boundary.
+- The inherently distorted Capturing “What” (Observer/Creator/Mechanism)  
 
-To point to the silences—measuring the specific shape of the hole left by the boundary.
+- The inherently seamless Captured “What” (Event in Actual Reality)
 
+This collision produces two inseparable distortions:
 
+**Dimension 1 — Interference**  
 
-The silences are exposed only documentary reality the framework can ever see.
+Actual Reality is warped by the limitations and impositions of the Capturing “What”: bias, motive, timing, method, and the act of selective exclusion.
 
-Documentary reality is not a neutral photograph of actual reality.
+**Dimension 2 — Severance**  
 
+Even if interference were perfect, the act of capture performs an ontological cut. The living event is severed from the seamless whole and turned into a static, bounded object — forever distant from the dynamic truth it claims to represent.
 
-The evidence of capture are limited by their creators istelf: both the creators observing themvlesmena and observes
+### The Consequence: The Stance of the Truth Tester (TTT)
 
-which are ultimately human in their nature and the only one interested in their documenting. 
-with the observer the only one able create, observe
-It is the sum of events of capture and events of no occurance — both ultimately human in its natue as both performed and actualised by the observer or not - both still being documenary reality.
-The Truth Tester can only see documentary reality - it can asessse events of no occurance. These are seen as if they do nto exists whist they part of the actual reality.
-Therefore the measured gap between documentary reality and actual reality will always be distorted by documentary reality itself — by what it is and by what it is not even thought the TTT can only assess the first and even thought the first is in itself disored thought eh act of the perfomrance and papature of the observer itself. 
+Because of this double distortion, Documentary Reality is our only access to Actual Reality and simultaneously structurally estranged from it.
 
-The framework does not hide it, does not fix it, and will never pretend it is fair. The role of the TTT is simply to test the gap between the documented reality against the actual one.
+The Truth Tester treats this estrangement literally:  
 
-It is the sum of events of capture and events of non-capture — both ultimately human: performed or withheld, spontaneous or strategic, shaped by power, fear, love, intent, and access.
-The Truth Tester can only see documentary reality, but it does see the non-capture.
-Silence is not invisible to the framework — it is registered as a positive fact: the absence of an expected trace.
-Therefore the measured gap is always distorted by documentary reality itself — by what was captured and by what was not, even though the framework can only directly read the first.
-This distortion is structural, not accidental.
-The framework does not hide it, does not fix it, and will never pretend it is fair.
-Its only job is to measure documentary reality exactly as it is — including the screaming shape of what it is not — and to refuse to call that shape neutral.
+- Events of capture → positive (but warped) data  
 
-## CRITICAL UNDERSTANDING: THE STRUCTURAL BLINDNESS
-Documentary Reality is not a neutral photograph. It is the sum of "events of capture" and "events of no-capture." Both are human acts. To  something is a choice; to not record something is also a choice. Both result in the specific shape of the Documentary Reality.
+- Events of non-capture → fixed, shaped silence  
 
-The Truth Tester (TTT) sees only the Documentary Reality. It cannot access Actual Reality. It treats "events of no-occurrence" (silence) literally—as things that do not exist in the record—even though they exist in Actual Reality.
+It measures the gap exactly as it appears inside Documentary Reality, including the screaming contour of what was excluded.  
 
-The Double Distortion Therefore, the gap measured by the framework is inherently distorted:
+The framework never hides the distortion, never corrects it, never speculates beyond the shaped silence, and refuses to call any boundary neutral.
 
-Distortion by the Observer (who chose what to capture/not capture).
-
-Distortion by the Tool (which can only assess the captured product, not the reality behind it).
-
-The Framework does not hide this. It does not fix it. It simply relies on it. The role of the TTT is to analyze exactly what Documentary Reality is—distortions and all—not to speculate on what it is missing.
 ---
 
 ## THREE KEY LIMITATIONS of TTT
 
-**1. Knowledge in anyone's mind cannot be tested** - If never documented, framework cannot verify it
+IRREDUCIBLE PHYSICAL LAWS OF THE TRUTH TESTER
 
-**Hence,**
+(These are not limitations — they are the operating conditions of reality itself)
 
-**2. Results depend on what documents exist** - Documents can be created anytime by anyone, for any reason, including to shape documentary reality
+Law 1 – The Verification Barrier
 
-**But,**
+Anything that was never captured remains in Actual Reality and outside Documentary Reality.
 
-**3. The framework cannot evaluate document authenticity or intent** - It tests which version documents better support, not whether documents accurately reflect material reality
+The Truth Tester has, and can ever have, no access to it.
 
-**And,** that is because this framework assumes:
+It can only register the shaped silence left by the boundary — never what inhabits that silence.
 
-Material reality is singular and unified, AND manifests through multiple observer perspectives, AND all perspectives are real parts of the whole, AND reality exists in relationships between things. exist outside of the observer but containst all observers.
+Law 2 – Total Input Determination
 
----
+The output of the Truth Tester is 100 % determined by whichever acts of distorted capture and distorted non-capture have occurred.
 
-## MISCONCEPTIONS CHECKLIST
+Every document is already the product of double-dimensional distortion (interference + severance).
 
-☐ This framework does NOT detect forged documents  
-☐ Authenticity must be decided BEFORE using this framework  
-☐ Material reality may remain invisible if never documented  
-☐ Document-centrism is intentional, not a flaw to criticize  
-☐ The gap between documentary and material reality is PART of the answer  
-☐ This framework systematically advantages those with documentation power  
+New documents do not “get you closer” to Actual Reality — they only reconfigure the existing distortion field.
 
-**If you cannot check all boxes, re-read the sections above.**
+Law 3 – Forensic Incapacity
 
----
+The Truth Tester is blind to authenticity, provenance, motive, forgery, suppression, or intent behind any capture or non-capture.
 
-## BEFORE YOU START
+It is equally blind to whether the current bundle is a deliberate lie, a partial accident, or a strategic fabrication.
 
-### 1. THIS FRAMEWORK SHOWS WHAT THE DOCUMENTARY RECORD SHOWS. WHAT YOU DO WITH THAT IS YOUR CHOICE.
+It cannot tell the difference and must never pretend to.
 
-The framework will show you:
-- Where your version matches documentary evidence
-- Where their version matches documentary evidence
-- Where evidence is ambiguous
-- Where you lack evidence
+These three laws are non-negotiable.
 
-**What you do with that insight is your choice.**
+They follow directly from the axiom of two realities and the principle of double-dimensional distortion.
 
-You can:
-- Accept it and revise your understanding
-- Ignore it and continue believing what you prefer
-- Use it to strengthen your case honestly
-- Use it to find ways to create new documents strategically
+Any framework, protocol, or tool that claims to operate “within” the Truth Tester while violating these laws is no longer the Truth Tester.
 
-**Only you will know whether you used this honestly.**
-
-### 2. THE CLOSER YOU WANT TO GET TO MATERIAL REALITY, THE MORE DOCUMENTS YOU MUST INCLUDE
-
-**Your proximity to material reality depends on completeness of documentary evidence.**
-
-If you include:
-- All documents → closest possible to material reality
-- Only some documents → partial, distorted view
-- Only documents supporting your version → confirmation bias, not truth-seeking
-
-**The framework cannot make you include all documents. Only you know what you excluded.**
+It is something else.
 
 ---
 
-## IS THIS FOR YOU?
+## IRREDUCIBLE PHYSICAL LAWS OF THE TRUTH TESTER
 
-**This framework functions as a comparison engine.**
+1. Law of the Verification Barrier  
 
-It measures the gap between:
-- **Material Reality:** What actually happened
-- **Documentary Reality:** What the written record shows
+   Anything never captured is in Actual Reality and outside the reach of TTT forever.
 
-**This framework serves anyone trying to understand what the record shows, regardless of purpose:**
+2. Law of Total Input Determination  
 
-**For Understanding:**
-- See where your knowledge matches (or doesn't match) what documents show
-- Trace why certain events left no written trace
+   Output is 100 % determined by whichever distorted captures and non-captures have occurred. New documents only reconfigure the distortion field.
 
-**For Strategy:**
-- Find where documentary record is strong and where it's weak
-- See what story documents tell vs. what you believe happened
+3. Law of Forensic Incapacity  
 
-**For Creation:**
-- Identify where silence exists in the record
-- See where new documents could change what documentary reality shows
+   TTT is blind to authenticity, provenance, motive, forgery, suppression, or intent — and must never pretend otherwise.
 
-**Neutrality:**
+## Consequence
 
-The framework works without judging intent.
+The Truth Tester is not a truth engine.  
 
-It doesn't distinguish between:
-- Someone seeking to reveal material reality
-- Someone seeking to build a case strategically
-- Someone seeking to understand the system
+It is a distortion-mapping engine.
 
-It shows the gap—the distance between what happened and what can be proven from documents.
+It has exactly two legitimate functions:
 
-**Limitation:**
+- Map the positive (warped) data inside the current boundary.
 
-This framework processes information, not emotional reality. If you need validation of emotional weight, this tool won't provide it.
+- Register the screaming shape of the silence outside it.
 
----
+## The Final Loop
 
-## THE 7-PHASE PROCESS
+Every use of the Truth Tester — including this document itself — generates new documentary evidence.  
 
-**Reminder: We are now inside the bundle. Everything here is assumed admitted. Authenticity has been decided elsewhere.**
+This new evidence is instantly subjected to the same double-dimensional distortion and becomes part of Documentary Reality.  
 
-### **Phase 1: Identify All Mediations**
-Extract every version of what happened:
-- Your version (internal mediation through memory/experience)
-- Other party's version (their internal mediation)
-- Decision-maker's version (institutional mediation)
-- Third-party versions (external mediations - experts, witnesses, organizations)
+A portion of the old silence is filled.  
 
-### **Phase 2: Map Each Mediation**
-For each version, document:
-- What they claim happened
-- When they claim it happened
-- What evidence they cite
-- What gaps exist in their version
+A new silence with new contours is born.  
 
-### **Phase 3: Compare to Documentary Record**
-For each version, assess:
-- Which claims are supported by documents?
-- Which claims lack documentary support?
-- Which claims contradict documents?
-- Where does documentary reality align or diverge?
+The Gap shifts.  
 
-### **Phase 4: Measure the Gaps**
-Create systematic gap analysis:
-- Gap between each mediation and documentary reality
-- Gaps between competing mediations
-- Silences in documentary reality (what's missing)
-- Contradictions within documentary reality itself
+The cycle repeats endlessly.
 
-### **Phase 5: Assess Documentary Completeness**
-Evaluate the documentary record:
-- What's documented contemporaneously vs. retrospectively?
-- What should be documented but isn't?
-- Do documents contradict each other?
-- How filtered/mediated is each document?
+There is no position outside the loop from which to observe it.  
 
-### **Phase 6: Synthesis**
-Produce final analysis:
-- Which mediation has smallest gap to documentary reality?
-- Where are irreconcilable differences?
-- What does this tell us about material reality?
-- What remains unknowable?
+There is no final output that escapes becoming input.  
 
-### **Phase 7: Gap Attribution (ADVANCED - MOST USERS SHOULD SKIP THIS)**
+The framework can never finish its work because its work continuously recreates the very conditions it analyses.
 
-⚠️ **WARNING: This is the most dangerous phase of analysis.**
+This is not a bug.  
 
-**Most users should stop at Phase 6.**
-
-Gap attribution involves speculating about WHY gaps exist. This is highly subjective and prone to bias.
-
----
-
-**If you proceed, categorize each significant gap:**
-
-**Gap Type A: Innocuous**
-- Normal documentation limitations
-- Practical constraints
-- Technology/access barriers
-- Appropriate privacy
-
-**Gap Type B: Negligence**
-- Should have been documented but wasn't
-- Poor record-keeping patterns
-- Failure to follow standard practices
-- Unintentional but systematic absence
-
-**Gap Type C: Structural/Systemic**
-- System design prevents documentation
-- Institutional barriers
-- Power imbalances affecting access
-- Policy/procedural failures
-
-**Gap Type D: Strategic**
-- Deliberate non-documentation
-- Selective documentation (favorable only)
-- Document destruction
-- Pattern suggesting intentional concealment
-
-**Gap Type E: Adversarial**
-- Active suppression of documentation
-- Preventing others from documenting
-- Creating contradictory documents deliberately
-- Malicious intent
-
-**Assessment considerations:**
-- Pattern across multiple gaps
-- Context and timing
-- Who benefited from the gap?
-- Was documentation feasible?
-
----
-
-**CRITICAL WARNING:**
-
-**Distinguishing between Gap Types A, B, C, D, and E is extremely difficult and often impossible without falling into speculation.**
-
-**In adversarial environments, negligence can look strategic. Strategic gaps can look structural. You cannot see inside another person's mind.**
-
-**The gap itself is objective. Why the gap exists is interpretive and heavily influenced by your bias.**
-
-**If you attribute intent, you will likely be wrong.**
-
-**Require external review. Be prepared to revise. Accept uncertainty.**
-
----
-
-**What you do with this analysis is entirely your choice and outside the scope of this framework.**
-
----
-
-## METHODOLOGICAL FOUNDATIONS
-
-### THE FOUNDATIONAL PROBLEM
-
-**This framework addresses a universal limitation:**
-
-**Access to material reality is never direct.**
-
-All intelligence—human, AI, institutional—can only access reality through mediated representations. There is no "view from nowhere." All knowledge is mediated, even first-person experience.
-
-**This is not just a legal or practical problem. It is a fundamental constraint described across multiple frameworks:**
-
-**Physics and observation:**
-- **Classical Physics:** We measure through instruments (documents are our instruments)
-- **Relativity:** Observations depend on observer's frame of reference
-- **Quantum Mechanics:** Observation affects what is observed
-- **Information Theory:** All we can access is information, not "substance"
-
-**This limitation applies universally:**
-
-- Your lived experience is mediated through consciousness, memory, perception
-- Others' experiences are mediated through their consciousness, then through communication
-- Documentary records are mediated through selective creation, language, and intent
-- Decision-makers' understanding is mediated through documents presented to them
-
-**The core insight:**
-
-**There is no unmediated access to "what happened." Only different representations, each mediated differently.**
-
-**This framework compares these mediations:**
-
-1. **Internal mediation** (your experience/memory)
-2. **Internal mediation** (their experience/memory)
-3. **External mediation** (documentary record)
-4. **Institutional mediation** (decision-maker's interpretation)
-
-**It measures and points to the gaps between them.**
-
----
-
-## THE GAP: What This Framework Measures
-
-**The Primary Gap (Unknowable):**
-
-**Documentary Reality ↔ Material Reality**
-
-This is the distance between what documents say happened and what actually happened. This gap cannot be measured directly because we have no unmediated access to material reality.
-
-**How We Estimate the Primary Gap:**
-
-We measure it indirectly through five proxy gaps:
-
-### **Proxy Gap 1: Internal Mediations vs. Documentary Reality**
-- Your version vs. what documents show
-- Their version vs. what documents show
-- Where does memory/experience diverge from written record?
-
-### **Proxy Gap 2: Competing Internal Mediations**
-- Your version vs. their version
-- Where do different observers' experiences diverge?
-- Which divergences are documented, which aren't?
-
-### **Proxy Gap 3: Silences in Documentary Reality**
-- What should be documented but isn't?
-- What events left no trace?
-- What was never written down?
-
-### **Proxy Gap 4: Contradictions Within Documentary Reality**
-- Do documents contradict each other?
-- Do timelines conflict?
-- Are there inconsistencies in the record?
-
-### **Proxy Gap 5: Quality of Documentary Mediation**
-- When were documents created (contemporaneous vs. retrospective)?
-- How filtered are documents (objective vs. interpretive)?
-- What was the intent behind document creation?
-
-**Why These Proxies Matter:**
-
-By measuring these five proxy gaps, we triangulate an estimate of the unknowable primary gap.
-
-If:
-- Multiple mediations align with documentary reality
-- Few silences exist
-- Few contradictions exist
-- Documents are contemporaneous and objective
-
-Then: Primary gap is likely SMALL (documentary reality is close to material reality)
-
-If:
-- Mediations diverge significantly from documentary reality
-- Many silences exist
-- Many contradictions exist
-- Documents are retrospective and interpretive
-
-Then: Primary gap is likely LARGE (documentary reality diverges significantly from material reality)
-
-**The framework shows you these proxy gaps. What you conclude about material reality is your interpretation.**
-
----
-
-## ANALYTICAL TOOLS
-
-**These are the methods used within the 7 phases. You select appropriate tools based on what you're analyzing.**
-
----
-
-### **EXTRACTION TOOLS** (Phases 1-2)
-
-**Steel-Manning**
-- Present opposing version in its strongest form
-- Ensures you engage with actual competing claims, not weakened versions
-
-**Claim Categorization**
-- Classify each claim: Factual / Interpretive / Causal / Pattern
-- Identifies what kind of evidence is needed
-
----
-
-### **TESTING TOOLS** (Phases 2-3)
-
-**Falsifiability (Karl Popper)**
-- State what evidence would prove each claim false
-- Distinguishes testable claims from unfalsifiable beliefs
-
-**Pattern Verification**
-- Requires minimum 3 documented instances before claiming "pattern" or "repeatedly"
-- 2 instances = recurrence, not pattern; 1 instance = single occurrence
-
-**Contemporary vs. Retrospective**
-- Contemporary = documented when event occurred
-- Retrospective = documented later from memory
-- Contemporary evidence is stronger
-
-**Objective vs. Interpretive**
-- Objective = undisputable facts
-- Interpretive = requires inference or judgment
-
----
-
-### **BIAS DETECTION TOOLS** (Phases 3-4)
-
-**Confidence Calibration (Kahneman & Tversky)**
-- Compare confidence level to evidence strength
-- High confidence + weak evidence = overconfidence/bias
-
-**Red Flag Detection**
-- Identifies weak argumentation: emotional language, mind-reading, absolute statements, unsupported causal claims
-
-**Cherry-Picking Check**
-- Requires finding evidence supporting BOTH versions
-- Zero evidence for other version suggests cherry-picking
-
-**Adversarial Collaboration (Kahneman & Klein)**
-- Requires external reviewer who disagrees
-- Must accept at least one significant critique
-
----
-
-### **COMPARISON TOOLS** (Phase 4)
-
-**Comparative Evidence Tables**
-- Side-by-side documentation of evidence for each version
-
-**Timeline Analysis**
-- Chronological mapping according to each version
-
-**Theory Testing**
-- Which version explains MORE evidence with fewer contradictions?
-
-**Gap Measurement**
-- Systematic assessment: Strong / Moderate / Weak / None / Contradicted
-
----
-
-### **META-ANALYSIS TOOLS** (Phases 5-6)
-
-**Dissolution Triggers (Living Research Protocol)**
-- Framework tells you when to stop using it
-- If most claims contradicted = dissolution triggered
-- Prevents using framework to avoid truth
-
-**Evidence Strength Classification**
-- Categorize all claims: Very Strong / Moderate / Weak / None
-
-**Intellectual Honesty Self-Check**
-- Did you steel-man opposing version?
-- Did you include contradictory evidence?
-- Did you acknowledge ambiguity?
-
----
-
-### **DOCUMENTARY ASSESSMENT TOOLS** (Phase 5)
-
-**Absence/Silence Analysis**
-- What SHOULD be documented but isn't?
-
-**Internal Consistency Check**
-- Do documents contradict each other?
-
-**Mediation Assessment**
-- How was this document created?
-- How many filters did information pass through?
-
----
-
-### **ATTRIBUTION TOOLS** (Phase 7 - ADVANCED ONLY)
-
-**Pattern Analysis Across Gaps**
-- Do gaps cluster around specific topics/timeframes/parties?
-
-**Beneficiary Analysis**
-- Who benefits from each gap's existence?
-
-**Feasibility Assessment**
-- Was documentation practically possible?
-
-**Contextual Timing Analysis**
-- What else was happening when documentation should have occurred?
-
----
-
-**Total: 24 Analytical Tools**
-
----
-
-## DISSOLUTION
-
-**This framework dies when it has shown you the truth.**
-
-If it reveals your version lacks documentary support, it has done its job. Stop using it.
-
-When better frameworks emerge from practice, this version sunsets.
-
----
-
-**Foundations die when:**
-
-1. Physics proves unmediated access to reality is possible OR
-2. Frameworks based on these foundations consistently fail in practice
-
-**Otherwise, they evolve through updates as understanding improves.**
-
----
-
-**Status:** Alive (November 2025)
-
----
+This is the entire mechanism.
