@@ -67,24 +67,27 @@ Everything that happened and will happen exists within it. It can be defined as 
 
 ## The Gap
 
-The Truth Tester (TTT) framework uses the selected documentary evidence to estimate the distance from what the selected documentary evidence is, to the best approximated actual reality as imagined by the observer—within the inherent limits of their imagination. This distance is called "The Gap".
+The Truth Tester (TTT) framework uses the selected documentary evidence to estimate the distance from what that evidence is, to the best approximated Actual Reality as imagined by the observer—within the inherent limits of their imagination. This distance is called "The Gap".
 
-The measured gap continuously shifts—not because actual reality itself changes, but because:
+The measured gap continuously shifts—not because Actual Reality itself changes, but because:
 
-- the bundle of documentary evidence continuously changes (new documents appear, old ones are re-contextualised whist still true), and
+The bundle of documentary evidence continuously changes (new documents appear, old ones are re-contextualised whilst remaining factually true).
 
-- the observer's relational understanding and perception of the unchanging actual reality undergoes transformations.
+The observer's relational understanding and perception of the unchanging Actual Reality undergoes transformations.
 
-Actual reality itself does not shift or get rewritten—it is simply that the limitations of understanding come with a bit more ease each time the capture occurs.
-
+Actual Reality itself does not shift or get rewritten. It is simply seen differently as the boundaries of documentary evidence shift—either sharpening or dissolving with each new capture.
 
 ---
 
 ## CRITICAL UNDERSTANDING: THE ARCHITECTURE OF DOCUMENTARY REALITY
 
+Nature creates constantly: bruises, tears, sounds, memories, physical evidence, a new cow 
+But unless that creation is captured (turned into Creation) it stays nature, not documentary reality.
+The cow does NOT need to be captured in order to exist.
+It only needs to be captured in order to enter Documentary Reality and become available for claims, stories, science, economics, or TTT evaluation about “that particular cow”.
+Most of nature never gets captured at all:
 
-Nature creates constantly: bruises, tears, sounds, memories, physical evidence.
-But unless that creation is captured (turned into Creation) by a human or human tool, it stays nature, not documentary reality.
+99.999…% of bruises heal without being photographed,
 The moment nature’s creation is captured → it becomes Creation.
 If capturable but not captured → it becomes Silence.
 If never capturable → remains pure nature (outside the sum).
