@@ -49,36 +49,34 @@ Responsibility for the selection—and the resulting reality—rests entirely wi
 
 ## Documentary Reality
 
-What can be known from documentary evidence only.
+What is known from documentary evidence only.
 
-Documentary evidence is incomplete, partial, limited by what was captured through the prism of the act of capture. It is in the past. Documentary reality is a subset of actual reality—a partial, filtered snapshot based on the vantage point of the observer.
+Documentary evidence is incomplete, partial, limited by what was captured through the prism of the act of capture. It is in the past. Documentary reality is a subset of actual reality—a partial, filtered snapshot of it; its part both as it is in the past and as it is occurring in the present.
 
 ## Actual Reality
 
 The fullness of the reality that actually exists.
 
-It includes everything—documented and undocumented, recorded and unrecorded.
+It includes everything and points to nothing—documented and undocumented, recorded and unrecorded.
 
-It is present and yet emerging, with what emerges being new documentary evidence.
+It is present, encompasses the past, and emerges the future, with what emerges being new documentary evidence.
 
-It contains static while being dynamic; singular and yet deeply relational.
+It contains the static while being dynamic. It is cohesive in its relational singularity resting on the separations of its individual truths alongside the fragmented plurality of documentary evidence.
 
-Everything that happened and will happen exists within it.
-
-Documentary reality is part of actual reality, both as it is and as it is occurring in the present. Hence, actual reality is present, holds the past, and emerges the future.
-
-It can be defined as ultimate truth.
+Everything that happened and will happen exists within it. It can be defined as Ultimate Truth.
 
 ## The Gap
 
-The Truth Tester (TTT) framework uses the selected documentary reality to estimate the distance to the living fullness of actual reality, as best approximated by the observer. This distance is called "the gap".
+The Truth Tester (TTT) framework uses the selected documentary evidence to estimate the distance from what the selected documentary evidence is, to the best approximated actual reality as imagined by the observer—within the inherent limits of their imagination. This distance is called "The Gap".
 
-The measured gap is always imprecise and continuously shifts—not because actual reality itself changes, but because:
+The measured gap continuously shifts—not because actual reality itself changes, but because:
 
-- the bundle of documentary evidence continuously changes (new documents appear, old ones are re-contextualised), and
-- the observer's relational understanding and perception of the unchanging actual reality undergoes feeling.
+- the bundle of documentary evidence continuously changes (new documents appear, old ones are re-contextualised whist still true), and
 
-Actual reality itself does not shift or get rewritten—it is simply understood each time with a bit more ease.
+- the observer's relational understanding and perception of the unchanging actual reality undergoes transformations.
+
+Actual reality itself does not shift or get rewritten—it is simply that the limitations of understanding come with a bit more ease each time the capture occurs.
+
 
 ---
 
