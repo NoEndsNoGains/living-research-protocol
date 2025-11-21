@@ -265,3 +265,5 @@ The framework can never finish its work because its work continuously recreates 
 This is not a bug.  
 
 This is the entire mechanism.
+
+new note: 21st Nov - The system may be self-knowing. The observer, being held within the system, cannot access that self-knowledge. TTT operates from the position of the observer, not the system.
