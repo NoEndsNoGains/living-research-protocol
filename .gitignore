@@ -1,0 +1,9 @@
+# Obsidian configuration (local to each machine)
+.obsidian/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude Code local state
+.claude/
