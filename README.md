@@ -36,26 +36,23 @@ Truth (what's real) + Love (what matters) + Rigor (what survives) → Evidence
 5. **At Sunset** – Extend / Revise / Dissolve
 
 ---
-## QITCS Format
-Document with 5 elements:
-
-- **Question**
-- **Inputs**
-- **Transform**
-- **Confidence** (skeptic's odds)
-- **Sunset**
-
----
 
 ## What Survived, What Didn't
 
 *Updated March 2026. The protocol applies to itself — here is the honest assessment.*
 
-**Protocol status:** Zero adopters. Never used as a formal protocol — not even by the creator. Sunset condition met (3 months no use).
+**Three questions that changed everything:**
+- How many adopters? **Zero.**
+- Has anyone used it besides the creator? **No.**
+- Does the creator use LRP? **Every day — without calling it LRP.**
 
-**But the protocol did not fail.** The ideas were so right they became invisible. They graduated into a working system without anyone noticing the connection.
+The principles are alive. The format is dead.
 
-### What survived — alive inside the System Architecture
+### The principles — alive, used daily
+
+The creator uses LRP constantly without realising it. "Stress-test this argument" is Fail(). "What's the evidence?" is Trace(). Dissolving documents that served their purpose is Dissolve(). A failure inventory with root cause analysis and prevention rules is Fail() → Commit(). Continuous evidence accumulation through numbered entries (241+) is the protocol in action.
+
+The principles graduated into a working system — the System Architecture — without anyone noticing the connection. They became so embedded in daily practice that they stopped being "LRP" and became "how I work."
 
 | LRP Principle | What it became | Status |
 |---|---|---|
@@ -66,41 +63,34 @@ Document with 5 elements:
 | Dissolve before drift | "Mess-free" — subtraction as design principle, periodic review of all rules | **Alive** |
 | Evidence accumulates continuously | Session memory, RT numbering (241+ entries), failure tracking | **Alive** |
 | Notice() | Inbox-first capture — new thoughts go to +Inbox/, batch processing later | **Alive** |
-| Fail() as transformation | "I thought X, actually Y" — the Failure Inventory demands transformation, not just logging | **Alive** |
+| Fail() as transformation | "I thought X, actually Y" — demands transformation, not just logging | **Alive** |
 | Dissolution is completion | Session close protocol — extract value, then let sessions dissolve cleanly | **Alive** |
-| Self-regulation through demands | The system self-selects — if you cannot follow the rules, you cannot use the system | **Alive** |
 
-### What died
+### The format — dead
 
-| LRP Element | Why it died |
+| Element | Why it died |
 |---|---|
-| **QITCS format** | Too formal. Nobody fills in Question/Inputs/Transform/Confidence/Sunset for every claim. The ideas survived; the form did not. |
+| **QITCS format** | Too formal. Nobody fills in Question/Inputs/Transform/Confidence/Sunset for every claim. The principles survived; the paperwork did not. |
 | **Confidence scores** (skeptic's odds) | Good concept, never practiced. The system uses binary instead: verified or not verified. |
-| **Sunset dates on claims** | "Nothing stays unchecked" exists as a rule, but no actual dates are set on anything. The principle survived; the mechanism did not. |
+| **Sunset dates on claims** | "Nothing stays unchecked" exists as a principle, but no actual dates are set. The idea survived; the mechanism did not. |
 | **Truth Engine** (Notion tool) | Never adopted. |
-| **The protocol as standalone product** | Zero adopters. The ideas needed a different vehicle. |
+| **The protocol as standalone product** | Zero adopters. The principles needed a different vehicle. |
 
 ### What this means
 
-LRP was the **thinking that happened while building something real.** The creator wrote it to articulate principles she was already practicing — then never went back to it because the practice was the point, not the protocol.
+LRP was the thinking that happened while building something real. The creator wrote it to articulate principles she was already practicing — then never went back to it because the practice was the point, not the protocol.
 
-The protocol died. The thinking lives. This is LRP working as designed.
+The principles are the epistemological foundation of the System Architecture — a portable AI identity system. The format died. The thinking lives. This is LRP working as designed.
 
 ---
 
 ## The Documents in This Repo
 
-### Still valuable
 - [Full Protocol](PROTOCOL.md) — the complete protocol specification
 - [Philosophy](PHILOSOPHY.md) — deep thinking on multidimensional knowledge generation
 - [Visual Guide](LRP_Visual_Guide.md) — 6 perspectives as Mermaid diagrams
 - Six Questions — personal thinking framework (experiential, pattern, creative, absence, network, entropic + the jelly question)
 - Design Notes 0-4 — intellectual foundations on Love, questions, refusal, aliveness, mutualism
-
-### Mostly empty
-- case-studies/ — placeholder
-- development-trace/ — placeholder
-- Appendices/ — one family court evidence framework
 
 ---
 ## Start Here
@@ -112,10 +102,11 @@ The protocol died. The thinking lives. This is LRP working as designed.
 ## Protocol Status
 **Version:** 4.1-lean
 **Released:** November 2025
-**Sunset:** Met — zero adopters, 3+ months no formal use
-**Dissolution status:** The protocol dissolves as a standalone product. The principles live on. The trace remains.
+**Sunset:** Met — zero adopters, format unused
+**Principles:** Alive — embedded in daily practice
+**Dissolution status:** The format dissolves. The principles live on. The trace remains.
 
-*This protocol applied to itself — and dissolved with integrity.*
+*This protocol applied to itself — and the principles survived while the format dissolved. Exactly as designed.*
 
 ---
 ## License
